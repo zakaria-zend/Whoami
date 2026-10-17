@@ -37,20 +37,6 @@
 
 
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" width="48%" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" width="40%" alt="Most used languages"/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" width="70%" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-<div align="center">
 
 **"The best way to learn security is to understand how systems work."**
 
