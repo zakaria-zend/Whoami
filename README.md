@@ -30,7 +30,7 @@
 ## 🧪 Cybersecurity Learning
 
 - TryHackMe: (https://tryhackme.com/p/Coorvus)
-- Hack The Box Academy: [YOUR_HTB_PROFILE]
+- Hack The Box Academy: (https://profile.hackthebox.com/profile/019f10b1-88ed-7318-95ee-461c93554044?utm_medium=copy_url)
 - Focus areas: Linux, networking, reconnaissance, web security and CTFs.
 
 ## 💻 Featured Projects
